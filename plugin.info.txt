@@ -1,0 +1,7 @@
+base   distributedacl
+author Dael Maselli
+email  dael.maselli@gmail.com
+date   2024-03-29
+name   DistributedACL
+desc   An enhanced ACL management system
+url    https://www.dokuwiki.org/plugin:distributedacl
